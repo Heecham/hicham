@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'bootstrap-icons';
+    src: url('../fonts/bootstrap-icons.woff'), url('../fonts/bootstrap-icons.woff2');
+
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.btn-custom {
+    border-radius: 2em;
+    padding: 18px 30px !important;
+    background-color: #6ccc6c;
+    border: none;
+}
+
+.btn-custom1 {
+    border-radius: 2em;
+    padding: 18px 30px !important;
+    background-color: white;
+    border: none;
+}
+
+.paragraph {
+    color: #ec9d83;
+}
+
+span {
+    color: #6ccc6c;
+}
+
+.section-custom {
+    text-align: center;
+    position: relative;
+
+}
+
+.sec-height {
+    line-height: 115px;
+}
+
+
+header {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(61, 2, 78, 1) 29%, rgba(3, 0, 41, 1) 100%);
+}
+
+.font-sizing {
+    font-size: 8em;
+    font-weight: bolder;
+
+}
+
+.image-float1 {
+    position: absolute;
+    right: 280px;
+    bottom: 230px;
+}
+
+.image-float2 {
+    position: absolute;
+    right: 840px;
+    bottom: 230px;
+    z-index: 0;
+}
+
+.border-sec {
+    border-top: solid 2px rgb(217, 217, 217);
+    border-bottom: solid 2px rgb(211, 211, 211);
+    background-color: rgb(18, 18, 18);
+    padding: 50px;
+}
+
+h3 {
+    padding: 60px 0px 40px 0px;
+}
+
+.title-size {
+    font-size: 3em;
+}
+
+.bgr-black {
+    background-color: black;
+}
+
+.btn-custom2 {
+    border-radius: 2em;
+    padding: 18px 30px !important;
+    background-color: rgb(238, 238, 238);
+    border: none;
+}
+
+.space-section {
+    padding: 100px 0px;
+}
+
+.bgr-card1 {
+    background-color: rgb(205, 255, 203);
+    width: 100%;
+}
+
+.bgr-card2 {
+    background-color: rgb(255, 203, 106);
+    width: 100%;
+}
+
+.bgr-card3 {
+    background-color: rgb(241, 158, 202);
+    width: 100%;
+}
+
+.bgr-card4 {
+    background-color: rgb(68, 199, 255);
+    width: 100%;
+}
+
+.bgr-image1 {
+    background-color: rgb(127, 255, 127);
+}
+
+.bgr-image2 {
+    background-color: rgb(251, 187, 68);
+}
+
+.bgr-image3 {
+    background-color: rgb(249, 85, 172);
+}
+
+.bgr-image4 {
+    background-color: rgb(85, 153, 249);
+}
+
+.space-card {
+    padding: 28px 28px 10px 28px;
+    border: none;
+
+}
+
+.space-image {
+    padding: 100px;
+    height: 370px;
+}
+
+.space-image2 {
+    padding: 100px;
+    height: 370px;
+}
+
+.btn-custom2 {
+    border-radius: 2em;
+    padding: 18px 30px !important;
+    background-color: rgb(31, 29, 29);
+    border: none;
+}
+
+.bgr-black2 {
+    position: relative;
+    background-color: black;
+}
+
+.image-float3 {
+    position: absolute;
+    bottom: 380px;
+    left: 550px;
+}
+
+.space-section2 {
+    padding-bottom: 180px;
+}
+
+.padding-section {
+    padding: 120px 100px;
+
+}
+
+footer {
+    background-color: #ec9d83;
+}
